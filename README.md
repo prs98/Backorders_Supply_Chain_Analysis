@@ -1,4 +1,4 @@
 # Backorders_Supply_Chain_Analysis (Competition Dataset)
-Understanding the supply chain process data and implementing different algorithms, building a machine learning model that can predict whether a given order gets cancelled or goes to back order.
+Analyzed the supply chain process-data and developed ML models using Python that can predict if a given order goes to back order with 89% precision and 46% recall in Random Forest model.
 
 ![](Images/corr.png)
